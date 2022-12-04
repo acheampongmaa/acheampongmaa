@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hello World, I'm Queensly👋
 
-<!--
-**acheampongmaa/acheampongmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
+
+ ### I'm a data analyst who is seeking to help make meaningful decisions with data✨ 
 
 Here are some ideas to get you started:
-
+- :writing_hand:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
