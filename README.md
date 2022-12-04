@@ -5,14 +5,22 @@
 
  ### I'm a data analyst who is seeking to help make meaningful decisions with data✨ 
 
-Here are some ideas to get you started:
-- :writing_hand:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ✍ You can find my projects here
+- 🔭 I’m currently working on different projects
+- 🌱 I’m currently learning machine learning
+- 👯 I’m looking to collaborate on any data analysis project
+- 💬 Ask me about ... Anything 
+- ⚡ Fun fact: I'm always open to work 😄
+
+### Talk with me, I am kinda awesome:
+
+<div id="badges">
+  <a href=https://www.linkedin.com/in/queensly-kyerewaa-acheampongmaa/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+
+### Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,vscode,github)](https://skillicons.dev)
