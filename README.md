@@ -7,8 +7,6 @@
 
 
 - ✍ You can find my projects here
-- 🔭 I’m currently working on data analytics and cloud projects
-- 🌱 I’m currently learning AWS Cloud Computing
 - 👯 I’m looking to collaborate on any data analysis and cloud computing projects
 - 💬 Ask me about ... Anything 
 - ⚡ Fun fact: Coming soon! 😄
